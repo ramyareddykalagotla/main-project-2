@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "devDependencies": {
-    "gh-pages": "^6.3.0"
-=======
-  "name": "main-project1",
+  "name": "sem-project",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -30,6 +26,5 @@
   },
   "overrides": {
     "vite": "^8.0.0-beta.13"
->>>>>>> 6059114534590e3d2a4f37757e6927dcf5380f0f
   }
 }
